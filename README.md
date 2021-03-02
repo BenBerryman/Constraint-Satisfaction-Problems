@@ -1,5 +1,5 @@
 # Constraint Satisfaction Problems
-A simple program to find solutions that satisfy hierarchically organized constraints
+A program to find solutions that satisfy hierarchically organized constraints
 
 ## Getting Started
 
